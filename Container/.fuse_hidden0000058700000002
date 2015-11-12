@@ -1,0 +1,2 @@
+cd master
+java -Xmx1G -jar GeneratorMaster.jar
